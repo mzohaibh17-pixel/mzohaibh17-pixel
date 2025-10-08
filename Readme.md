@@ -11,12 +11,15 @@ I am actively seeking opportunities for scholarships, research projects, and adv
 ---
 
 ## Key Projects
-1. **[Particle in a Box Simulation](https://github.com/yourusername/Particle_in_a_Box)**  
+1. **[Particle in a Box Simulation](https://github.com/mzohaibh17-pixel/Particle_in_a_Box)**  
    A Python simulation of a quantum particle in a one-dimensional infinite potential well. Includes energy levels, wavefunctions, probability densities, and visualizations of effects of box length and particle mass.
 
-2. **[Quantum Wave Packets 1D & 2D](https://github.com/yourusername/Quantum_Wave_Packets)**  
-   Computational study of quantum wave packets in one and two dimensions. Visualizes wave packet evolution and interference patterns.
+2. **[Quantum Wave Packets 1D & 2D](https://github.com/mzohaibh17-pixel/Quantum_Wave_Packets)**  
+   Computational study of quantum wave packets in one and two dimensions. Visualizes 1D and 2D wavefunctions, probability densities, and time evolution animations of wave packets. Includes stationary states, superposition effects, and interactive visualizations.
 
+3. **[Exoplanet Habitability Analysis](https://github.com/mzohaibh17-pixel/Exoplanet_Habitability_Analysis)**  
+   A Python project analyzing the habitability of exoplanets, focusing on **Proxima Centauri b**. Fetches real-time data from the NASA Exoplanet Archive, calculates stellar flux, equilibrium and surface temperatures, gravity, escape velocity, and checks habitable zone and tidal locking. Generates plots comparing with Earth and visualizes habitability zones.
+   
 ---
 
 ## Skills
