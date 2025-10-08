@@ -11,10 +11,10 @@ I am actively seeking opportunities for scholarships, research projects, and adv
 ---
 
 ## Key Projects
-1. **[Particle in a Box Simulation](https://github.com/mzohaibh17-pixel/Particle_in_a_Box)**  
+1. **[Particle in a Box Simulation](https://github.com/mzohaibh17-pixel/Quantum-Particle-in-a-Box)**  
    A Python simulation of a quantum particle in a one-dimensional infinite potential well. Includes energy levels, wavefunctions, probability densities, and visualizations of effects of box length and particle mass.
 
-2. **[Quantum Wave Packets 1D & 2D](https://github.com/mzohaibh17-pixel/Quantum_Wave_Packets)**  
+2. **[Quantum Wave Packets 1D & 2D](https://github.com/mzohaibh17-pixel/Quantum_Wave_Packets_1D_2D)**  
    Computational study of quantum wave packets in one and two dimensions. Visualizes 1D and 2D wavefunctions, probability densities, and time evolution animations of wave packets. Includes stationary states, superposition effects, and interactive visualizations.
 
 3. **[Exoplanet Habitability Analysis](https://github.com/mzohaibh17-pixel/Exoplanet_Habitability_Analysis)**  
