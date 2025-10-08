@@ -22,21 +22,14 @@ I am actively seeking opportunities for scholarships, research projects, and adv
    
 ---
 
-## Skills
+## Skills & Expertise
 - Quantum Mechanics & Computational Physics
-- Numerical Simulations & Visualization
-- Python (NumPy, Matplotlib)
-- Scientific Documentation & Presentation
+- Numerical Simulations & Data Visualization
+- Python (NumPy, Matplotlib, Pandas, Seaborn)
+- Jupyter Notebook & Scientific Documentation
 
 ---
 
 ## Achievements
-- **STFS Scholarship (Pakistan)**  
-- **Awarded a laptop in 2017** for outstanding matriculation results by the Chief Minister of Punjab, Shehbaz Sharif  
-- Successfully completed multiple physics simulation projects demonstrating advanced concepts
-
----
-
-## Contact / Links
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+- Recipient of the **Science Talent Farming Scheme (STFS) Scholarship** by the Ministry of Science and Technology, Pakistan.
+- Awarded a **Laptop Award** by the Chief Minister of Punjab for outstanding academic performance in Matriculation.
