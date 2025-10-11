@@ -1,3 +1,4 @@
+<!--
 # Muhammad Zohaib Hassan
 
 Physics graduate | Open to advanced Physics research & scholarships
@@ -37,3 +38,4 @@ I am actively seeking opportunities for scholarships, research projects, and adv
 ## Achievements
 - Recipient of the **Science Talent Farming Scheme (STFS) Scholarship** by the Ministry of Science and Technology, Pakistan.
 - Awarded a **Laptop Award** by the Chief Minister of Punjab for outstanding academic performance in Matriculation.
+-->
