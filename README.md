@@ -1,5 +1,7 @@
 # Muhammad Zohaib Hassan
 
+---
+
 ## Bio
 
 I am a Physics graduate passionate about exploring diverse areas of the field — from theoretical foundations to computational and experimental applications.  
@@ -60,13 +62,13 @@ For more insights, [🔗 View Project](https://github.com/mzohaibh17-pixel/CERN_
 
 ## Skills & Expertise
 
-- Quantum Mechanics, Wave Physics, and Numerical Modeling  
+- Theoretical Physics, Quantum Mechanics, and Wave Phenomena  
+- Computational Modeling and Numerical Simulations  
 - Data Analysis, Statistical Methods, and Visualization  
-- Python Programming (NumPy, Pandas, Matplotlib, Seaborn, SciPy)  
-- Machine Learning (Regression, Prediction, and Model Evaluation)  
-- Data Acquisition and API Integration (NASA Exoplanet Archive)  
-- ROOT Framework & Experimental Data Analysis (CERN CMS Data)  
-- Jupyter Notebook, Version Control, and Scientific Documentation  
+- Machine Learning for Physical Data and Regression Tasks  
+- Experimental Physics (Optics, Electronics, and Modern Physics Labs)  
+- ROOT Framework & High-Energy Data Analysis  
+- Jupyter Notebook, Version Control, and Scientific Documentation 
 
 ---
 
