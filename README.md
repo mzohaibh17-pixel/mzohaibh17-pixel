@@ -2,7 +2,7 @@
 
 ## Bio
 
-I am a Physics graduate passionate about exploring diverse areas of the field — from theoretical foundations to computational and experimental applications. My goal is to contribute to meaningful research and pursue advanced studies in physics and related interdisciplinary domains.
+Physics graduate passionate about exploring diverse areas of the field — from theoretical and computational studies to experimental work. My goal is to contribute to meaningful research and pursue advanced studies in physics and related interdisciplinary domains, creating real impact.
 
 
 ## Key Projects
