@@ -1,7 +1,5 @@
 # Muhammad Zohaib Hassan
 
-**Physics Graduate | Open to Advanced Research & Scholarship Opportunities**
-
 ## Bio
 
 I am a Physics graduate passionate about exploring diverse areas of the field — from theoretical foundations to computational and experimental applications.  
