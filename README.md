@@ -1,13 +1,10 @@
 # Muhammad Zohaib Hassan
 
----
-
 ## Bio
 
 I am a Physics graduate passionate about exploring diverse areas of the field — from theoretical foundations to computational and experimental applications.  
 My goal is to contribute to meaningful research and pursue advanced studies in physics and related interdisciplinary domains.
 
----
 
 ## Key Projects
 
@@ -58,7 +55,6 @@ For more insights, [🔗 View Project](https://github.com/mzohaibh17-pixel/CERN_
 
 </details>
 
----
 
 ## Skills & Expertise
 
@@ -68,16 +64,14 @@ For more insights, [🔗 View Project](https://github.com/mzohaibh17-pixel/CERN_
 - Machine Learning for Physical Data and Regression Tasks  
 - Experimental Physics (Optics, Electronics, and Modern Physics Labs)  
 - ROOT Framework & High-Energy Data Analysis  
-- Jupyter Notebook, Version Control, and Scientific Documentation 
+- Jupyter Notebook, Version Control, and Scientific Documentation
 
----
 
 ## Achievements
 
 - Recipient of the **Science Talent Farming Scheme (STFS) Scholarship**, awarded by the Ministry of Science and Technology, Government of Pakistan.  
 - Honored with a **Laptop Award** by the Chief Minister of Punjab for outstanding academic performance in Matriculation.
 
----
 
 ## Certifications
 
