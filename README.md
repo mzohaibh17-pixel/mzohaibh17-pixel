@@ -1,39 +1,89 @@
 # Muhammad Zohaib Hassan
 
-Physics graduate | Open to advanced Physics research & scholarships
-
----
+**Physics Graduate | Open to Advanced Research & Scholarship Opportunities**
 
 ## Bio
-I am a BS Physics graduate (CGPA 3.50) with a keen interest in all areas of Physics.  
-I am actively seeking opportunities for scholarships, research projects, and advanced studies in physics-related fields.  
+
+I am a Physics graduate passionate about exploring diverse areas of the field — from theoretical foundations to computational and experimental applications.  
+My goal is to contribute to meaningful research and pursue advanced studies in physics and related interdisciplinary domains.
 
 ---
 
 ## Key Projects
 
-1. **[Particle in a Box Simulation](https://github.com/mzohaibh17-pixel/Quantum-Particle-in-a-Box)**  
-   A Python simulation of a quantum particle in a one-dimensional infinite potential well. Features energy levels, wavefunctions, probability densities, and visualizations showing effects of box length and particle mass.
+A collection of physics projects showcasing simulations, data analysis, and scientific modeling:
 
-2. **[Quantum Wave Packets 1D & 2D](https://github.com/mzohaibh17-pixel/Quantum_Wave_Packets_1D_2D)**  
-   Computational study of quantum wave packets in one and two dimensions. Visualizes 1D and 2D wavefunctions, probability densities, and time evolution animations. Includes stationary states, superposition effects, and interactive visualizations.
+<details>
+<summary>🔹 Particle in a Box Simulation</summary>
 
-3. **[Exoplanet Habitability Analysis](https://github.com/mzohaibh17-pixel/Exoplanet_Habitability_Analysis)**  
-   Analysis of the habitability of exoplanets, focusing on **Proxima Centauri b**. Fetches real-time data from the NASA Exoplanet Archive, calculates stellar flux, equilibrium and surface temperatures, gravity, escape velocity, and checks habitable zones and tidal locking. Generates plots comparing with Earth and visualizes habitability zones.
+Developed a Python simulation of a quantum particle in a 1D infinite potential well.  
+Computed energy levels, wavefunctions, and probability densities, visualizing the effects of box length and particle mass.  
+For more insights, [🔗 View Project](https://github.com/mzohaibh17-pixel/Quantum-Particle-in-a-Box).
 
-4. **[SDSS Stellar Data Analysis](https://github.com/mzohaibh17-pixel/SDSS_Stellar_Data_Analysis)**  
-   Conducted data cleaning, exploratory analysis, and feature engineering on the Sloan Digital Sky Survey (SDSS) stellar dataset. Implemented **Linear, Ridge, and Polynomial Regression** to predict stellar redshift, evaluated models using R² scores, and visualized insights with histograms, scatter plots, correlation heatmaps, and predicted vs. actual redshift plots.
-   
+</details>
+
+<details>
+<summary>🔹 Quantum Wave Packet Simulation (1D & 2D)</summary>
+
+Simulated quantum wave packets in 1D and 2D potential wells.  
+Visualized wavefunctions, probability densities, and time evolution animations to study interference and confinement effects.  
+For more insights, [🔗 View Project](https://github.com/mzohaibh17-pixel/Quantum_Wave_Packets_1D_2D).
+
+</details>
+
+<details>
+<summary>🔹 Exoplanet Habitability Analysis</summary>
+
+Analyzed the habitability of exoplanets (e.g., Proxima Centauri b) using real data from the NASA Exoplanet Archive.  
+Computed stellar flux, equilibrium temperature, gravity, and tidal locking; visualized habitable zones relative to Earth.  
+For more insights, [🔗 View Project](https://github.com/mzohaibh17-pixel/Exoplanet_Habitability_Analysis).
+
+</details>
+
+<details>
+<summary>🔹 SDSS Stellar Data Analysis</summary>
+
+Performed exploratory analysis and regression modeling on Sloan Digital Sky Survey (SDSS) stellar data.  
+Predicted stellar redshifts using Linear, Ridge, and Polynomial Regression; visualized results using plots and correlation heatmaps.  
+For more insights, [🔗 View Project](https://github.com/mzohaibh17-pixel/SDSS_Stellar_Data_Analysis).
+
+</details>
+
+<details>
+<summary>🔹 CERN Open Data Analysis</summary>
+
+Analyzed CMS LHC collision datasets using Python and the ROOT framework.  
+Performed event selection, histogramming, and invariant mass reconstruction (e.g., Z → μ⁺μ⁻) to study Standard Model processes.  
+For more insights, [🔗 View Project](https://github.com/mzohaibh17-pixel/CERN_Open_Data_Analysis).
+
+</details>
+
 ---
 
 ## Skills & Expertise
-- Quantum Mechanics & Computational Physics
-- Numerical Simulations & Data Visualization
-- Python (NumPy, Matplotlib, Pandas, Seaborn)
-- Jupyter Notebook & Scientific Documentation
+
+- Quantum Mechanics, Wave Physics, and Numerical Modeling  
+- Data Analysis, Statistical Methods, and Visualization  
+- Python Programming (NumPy, Pandas, Matplotlib, Seaborn, SciPy)  
+- Machine Learning (Regression, Prediction, and Model Evaluation)  
+- Data Acquisition and API Integration (NASA Exoplanet Archive)  
+- ROOT Framework & Experimental Data Analysis (CERN CMS Data)  
+- Jupyter Notebook, Version Control, and Scientific Documentation  
 
 ---
 
 ## Achievements
-- Recipient of the **Science Talent Farming Scheme (STFS) Scholarship** by the Ministry of Science and Technology, Pakistan.
-- Awarded a **Laptop Award** by the Chief Minister of Punjab for outstanding academic performance in Matriculation.
+
+- Recipient of the **Science Talent Farming Scheme (STFS) Scholarship**, awarded by the Ministry of Science and Technology, Government of Pakistan.  
+- Honored with a **Laptop Award** by the Chief Minister of Punjab for outstanding academic performance in Matriculation.
+
+---
+
+## Certifications
+
+- **Data Analysis with Python – IBM (Coursera)**  
+  [🔗 View Certificate](https://coursera.org/verify/2SAYU4G1SHWW)  
+- **Physics of Oscillators and Waves – Rice University (Coursera, In Progress)**  
+- **Mathematics for Machine Learning – DeepLearning.AI (Coursera, Planned)**  
+- **Astronomy: Exploring Time and Space – University of Arizona (Coursera, Planned)**  
+- **Particle Physics: An Introduction – University of Geneva (Coursera, Planned)**
