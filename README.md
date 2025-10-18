@@ -86,7 +86,11 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 
 - Data Analysis with Python – IBM (Coursera)  
   [🔗 View Certificate](https://coursera.org/verify/2SAYU4G1SHWW)  
-- Physics of Oscillators and Waves – Rice University (Coursera, In Progress)  
-- Mathematics for Machine Learning – DeepLearning.AI (Coursera, In Progress) 
-- Astronomy: Exploring Time and Space – University of Arizona (Coursera, Planned) 
-- Particle Physics: An Introduction – University of Geneva (Coursera, Planned)
+- Physics of Oscillators and Waves – Rice University (Coursera)
+  [🔗 View Certificate](https://coursera.org/verify/TBT9KSICKC0S)
+- Mathematics for Machine Learning Specialization- DeepLearning.AI (In Progress, Coursera)
+- Astronomy: Exploring Time and Space - University of Arizona (In Progress, Coursera) 
+- Particle Physics: An Introduction – University of Geneva (Planned, Coursera)
+- Machine Learning with Scikit-learn, PyTorch & Hugging Face – Stanford + DeepLearning.AI (Planned, Coursera)
+- Analyzing the Universe – Rutgers University (Planned, Coursera)
+
