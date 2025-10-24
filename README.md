@@ -86,28 +86,15 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 
 ## Skills & Expertise
 
-- **Theoretical & Computational Physics**
-  - Astroparticle and cosmology data modeling  
-  - Nanostructured solar cell modeling and efficiency calculations
-  - Quantum mechanics simulations (1D & 2D wave packets, particle in a box)
-
-- **Experimental Physics**  
-  - Optics, Electronics, Modern Physics labs  
-  - Hands-on experience with measurements and instrumentation  
-
-- **Data Analysis & Visualization**  
-  - Regression, statistical analysis, and correlation studies  
-  - Plotting and interpreting scientific data (Matplotlib, Pandas, NumPy)  
-
-- **Programming & Technical Tools**  
-  - Python (simulations, modeling, data analysis)  
-  - Jupyter Notebooks for interactive exploration  
-  - ROOT framework for high-energy physics data analysis  
-  - Git and version control for collaborative projects  
-
-- **Machine Learning & Computational Techniques**  
-  - Regression modeling, predictive analysis on physical datasets  
-  - Scientific simulations and reproducible workflows  
+- Applied and computational physics, including astroparticle, cosmology, nanostructure, and quantum modeling  
+- Experimental experience in optics, electronics, and modern physics  
+- Regression modeling, statistical analysis, and data visualization  
+- Scientific plotting using Matplotlib, Pandas, and NumPy  
+- Python programming for simulations, modeling, and analysis  
+- Use of Jupyter Notebooks for interactive scientific workflows  
+- Experience with ROOT framework for high-energy physics data analysis  
+- Version control and collaborative work using Git and GitHub  
+- Predictive modeling, simulation automation, and reproducible research practices  
 
 ---
 
