@@ -11,6 +11,15 @@ Physics graduate passionate about exploring diverse areas of the field, from the
 A collection of physics projects showcasing simulations, data analysis, and scientific modeling:
 
 <details>
+<summary>🔹 Thermal Energy Storage Using PCMs</summary>
+
+> Simulated temperature evolution and energy storage in different phase-change materials (PCMs).  
+> Compared materials based on thermal response and energy retention under identical heating conditions.  
+> For more insights, [🔗 View Project](https://github.com/mzohaibh17-pixel/Thermal-Energy-Storage-using-PCMs).
+
+</details>
+
+<details>
 <summary>🔹 Nanostructured Solar Cell Efficiency</summary>
 
 > Simulated nanopillar nanostructures for solar cells and analyzed their effect on efficiency.  
