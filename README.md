@@ -107,7 +107,8 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 
 ## Certifications
 
-- Data Analysis with Python – IBM (Coursera)  
-[🔗 View Certificate](https://coursera.org/verify/2SAYU4G1SHWW)  
-- Physics of Oscillators and Waves – Rice University (Coursera)  
-[🔗 View Certificate](https://coursera.org/verify/TBT9KSICKC0S)
+| Course / Specialization | Institution | Certificate |
+|--------------------------|--------------|--------------|
+| Data Analysis with Python | IBM | [🔗 View](https://coursera.org/verify/2SAYU4G1SHWW) |
+| Physics of Oscillators and Waves | Rice University | [🔗 View](https://coursera.org/verify/TBT9KSICKC0S) |
+| Machine Learning Specialization<br>&nbsp;&nbsp;• Supervised Machine Learning: Regression and Classification | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/4P6UWD4A7J4W) |
