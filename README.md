@@ -111,4 +111,5 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 |--------------------------|--------------|--------------|
 | Data Analysis with Python | IBM | [🔗 View](https://coursera.org/verify/2SAYU4G1SHWW) |
 | Physics of Oscillators and Waves | Rice University | [🔗 View](https://coursera.org/verify/TBT9KSICKC0S) |
+| Astronomy: Exploring Time and Space | University of Arizona | [🔗 View](https://coursera.org/verify/WXMDVPLYGVQ8) |
 | Machine Learning Specialization<br>&nbsp;&nbsp;• Supervised Machine Learning: Regression and Classification | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/4P6UWD4A7J4W) |
