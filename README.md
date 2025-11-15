@@ -94,14 +94,7 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 - Use of Jupyter Notebooks for interactive scientific workflows  
 - Experience with ROOT framework for high-energy physics data analysis  
 - Version control and collaborative work using Git and GitHub  
-- Predictive modeling, simulation automation, and reproducible research practices  
-
----
-
-## Achievements
-
-- Recipient of the Science Talent Farming Scheme (STFS) Scholarship, awarded by the Ministry of Science and Technology, Government of Pakistan.  
-- Honored with a Laptop Award by the Chief Minister of Punjab for outstanding academic performance in Matriculation.
+- Predictive modeling, simulation automation, and reproducible research practices 
 
 ---
 
