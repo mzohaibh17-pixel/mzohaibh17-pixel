@@ -106,4 +106,5 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 | Physics of Oscillators and Waves | Rice University | [🔗 View](https://coursera.org/verify/TBT9KSICKC0S) |
 | Astronomy: Exploring Time and Space | University of Arizona | [🔗 View](https://coursera.org/verify/WXMDVPLYGVQ8) |
 | Particle Physics: an Introduction | University of Geneva | [🔗 View](https://coursera.org/verify/WMJDVXA6ELT4) |
+| Solar Energy Basics | The State University of New York | [🔗 View](https://www.coursera.org/verify/5FKWG688GZZA) |
 | Machine Learning Specialization<br>&nbsp;&nbsp;• Supervised Machine Learning: Regression and Classification | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/4P6UWD4A7J4W) |
