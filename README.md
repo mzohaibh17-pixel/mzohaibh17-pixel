@@ -107,4 +107,5 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 | Astronomy: Exploring Time and Space | University of Arizona | [🔗 View](https://coursera.org/verify/WXMDVPLYGVQ8) |
 | Particle Physics: an Introduction | University of Geneva | [🔗 View](https://coursera.org/verify/WMJDVXA6ELT4) |
 | Solar Energy Basics | The State University of New York | [🔗 View](https://www.coursera.org/verify/5FKWG688GZZA) |
+| Nanotechnology: A Maker's Course | Duke University | [🔗 View](https://www.coursera.org/verify/NKBX10F7JOOC) |
 | Machine Learning Specialization<br>&nbsp;&nbsp;• Supervised Machine Learning: Regression and Classification | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/4P6UWD4A7J4W) |
