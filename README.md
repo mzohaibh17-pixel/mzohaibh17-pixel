@@ -110,4 +110,5 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 | Nanotechnology: A Maker's Course | Duke University | [🔗 View](https://www.coursera.org/verify/NKBX10F7JOOC) |
 | Fundamentals of particle accelerator technology (NPAP MOOC) | Lund University | [🔗 View](https://www.coursera.org/verify/JYU4X87QZG85) |
 | AstroTech: The Science and Technology behind Astronomical Discovery | The University of Edinburgh | [🔗 View](https://www.coursera.org/verify/X72Q5N5BGOID) |
+| Analyzing the Universe | Rutgers The State University of New Jersey | [🔗 View](https://www.coursera.org/verify/VBSMSV5LF72B) |
 | Machine Learning Specialization<br>&nbsp;&nbsp;• Supervised Machine Learning: Regression and Classification | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/4P6UWD4A7J4W) |
