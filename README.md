@@ -98,17 +98,17 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 
 ---
 
-## Certifications  
+## Certifications
 
 | Course / Specialization | Institution | Certificate |
-|--------------------------|--------------|--------------|
+|------------------------|-------------|-------------|
 | Data Analysis with Python | IBM | [🔗 View](https://coursera.org/verify/2SAYU4G1SHWW) |
-| Physics of Oscillators and Waves | Rice University | [🔗 View](https://coursera.org/verify/TBT9KSICKC0S) |
 | Astronomy: Exploring Time and Space | University of Arizona | [🔗 View](https://coursera.org/verify/WXMDVPLYGVQ8) |
 | Particle Physics: an Introduction | University of Geneva | [🔗 View](https://coursera.org/verify/WMJDVXA6ELT4) |
 | Solar Energy Basics | The State University of New York | [🔗 View](https://www.coursera.org/verify/5FKWG688GZZA) |
 | Nanotechnology: A Maker's Course | Duke University | [🔗 View](https://www.coursera.org/verify/NKBX10F7JOOC) |
-| Fundamentals of particle accelerator technology (NPAP MOOC) | Lund University | [🔗 View](https://www.coursera.org/verify/JYU4X87QZG85) |
-| AstroTech: The Science and Technology behind Astronomical Discovery | The University of Edinburgh | [🔗 View](https://www.coursera.org/verify/X72Q5N5BGOID) |
-| Analyzing the Universe | Rutgers The State University of New Jersey | [🔗 View](https://www.coursera.org/verify/VBSMSV5LF72B) |
+| Fundamentals of Particle Accelerator Technology (NPAP MOOC) | Lund University | [🔗 View](https://coursera.org/verify/JYU4X87QZG85) |
+| AstroTech: The Science and Technology Behind Astronomical Discovery | University of Edinburgh | [🔗 View](https://coursera.org/verify/X72Q5N5BGOID) |
+| Analyzing the Universe | Rutgers, The State University of New Jersey | [🔗 View](https://www.coursera.org/verify/VBSMSV5LF72B) |
+| Physics of Waves and Optics Specialization<br>&nbsp;&nbsp;• Physics of Oscillators and Waves<br>&nbsp;&nbsp;• Physics of Light and Materials | Rice University | [🔗 View](https://coursera.org/verify/TBT9KSICKC0S)<br>[🔗 View](https://www.coursera.org/verify/UTQOEVS2A493) |
 | Machine Learning Specialization<br>&nbsp;&nbsp;• Supervised Machine Learning: Regression and Classification | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/4P6UWD4A7J4W) |
