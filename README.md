@@ -111,4 +111,5 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 | Solar Energy Basics | The State University of New York | [🔗 View](https://www.coursera.org/verify/5FKWG688GZZA) |
 | Physics of Waves and Optics Specialization<br>• Physics of Oscillators and Waves<br>• Physics of Light and Materials<br>• Physics of Geometrical and Physical Optics | Rice University | [🔗 Spec](https://www.coursera.org/verify/specialization/W4ASQ3ZPNEH0)<br>[🔗 View](https://coursera.org/verify/TBT9KSICKC0S)<br>[🔗 View](https://coursera.org/verify/UTQOEVS2A493)<br>[🔗 View](https://coursera.org/verify/N8D5X26G2UGR) |
 | Data Analysis with Python | IBM | [🔗 View](https://coursera.org/verify/2SAYU4G1SHWW) |
+| Introduction to Artificial Intelligence (AI) | IBM | [🔗 View](https://www.coursera.org/verify/LGCL06H4F0Q3) |
 | Machine Learning Specialization<br>• Supervised Machine Learning: Regression and Classification | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/4P6UWD4A7J4W) |
