@@ -113,4 +113,4 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 | Data Analysis with Python | IBM | [🔗 View](https://coursera.org/verify/2SAYU4G1SHWW) |
 | Introduction to Artificial Intelligence (AI) | IBM | [🔗 View](https://www.coursera.org/verify/LGCL06H4F0Q3) |
 | AI for Everyone | DeepLearning.AI | [🔗 View](https://www.coursera.org/verify/VNLRQKOXJ0LC) |
-| Machine Learning Specialization<br>• Supervised Machine Learning: Regression and Classification | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/4P6UWD4A7J4W) |
+| Machine Learning Specialization<br>• Supervised Machine Learning: Regression and Classification<br>• Advanced Learning Algorithms | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/4P6UWD4A7J4W)<br>[🔗 View](https://www.coursera.org/verify/L2HXIBZZYJ4J) |
